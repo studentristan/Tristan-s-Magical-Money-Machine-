@@ -1,0 +1,38 @@
+@import url(foundation.min.css);
+
+.background {
+  background-color: #222; }
+
+.centerme {
+  text-align: center; }
+
+.edge {
+  background-color: black;
+}
+
+.buttonsofepicness {
+  margin-top: 25px;
+  padding: 50px;
+}
+/*# sourceMappingURL=overrides.css.map */
+
+h1 {
+  font-size: 120px;
+}
+
+.white {
+  color: white;
+}
+
+h2 {
+  font-size: 100px;
+  color: white;
+}
+
+.padit {
+  padding: 26px;
+}
+
+img {
+  width: 100%
+}
